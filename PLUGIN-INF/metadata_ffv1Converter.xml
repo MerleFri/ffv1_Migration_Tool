@@ -1,0 +1,32 @@
+<pl:metadata-config xmlns:pl="http://www.exlibrisgroup.com/Plugins/1.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<pl:pluginTypeName>MigrationToolPlugin</pl:pluginTypeName>
+	<pl:deployName>ffv1MkvMigrationTool</pl:deployName>
+	<pl:className>bin/ConvertToFfv1MkvPCM</pl:className>
+	<pl:initParameters>
+		<fr:x_form xmlns:fr="http://com/exlibris/digitool/common/forms/xmlbeans">
+		</fr:x_form>
+	</pl:initParameters>
+	<pl:description>Ffv1 Matroska Migration Tool</pl:description>
+	<pl:version>1.2</pl:version>
+	<pl:materialType>DIGITAL</pl:materialType>
+	<pl:module>Preservation</pl:module>
+	<pl:generalType>TASK</pl:generalType>
+	<pl:publicApi>N</pl:publicApi>
+	<pl:implType>script</pl:implType>
+	<pl:contactPerson>
+		<contact_info xmlns="http://www.exlibrisgroup.com/Plugins/1.0/">
+			<contactType>admin</contactType>
+			<firstName>Merle</firstName>
+			<lastName>Friedrich</lastName>
+			<telephone1></telephone1>
+			<telephone2></telephone2>
+			<email>support.lza@tib.eu</email>
+			<address1>TIB Hannover</address1>
+			<address2>Welfengarten 1B</address2>
+			<city>Hannover</city>
+			<zipCode>30167</zipCode>
+			<country>Germany</country>
+		</contact_info>
+	</pl:contactPerson>
+</pl:metadata-config>
