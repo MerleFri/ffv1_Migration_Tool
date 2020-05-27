@@ -11,7 +11,7 @@ install [FFmpeg](https://www.ffmpeg.org/) on the server
 
 ### Installing
 
-see [Rosetta SDK](https://developers.exlibrisgroup.com/rosetta/sdk/plugins), Deployment and Installation
+see [Rosetta SDK](https://developers.exlibrisgroup.com/rosetta/integrations/plugins/), Deployment and Installation
 
 ## Running the Plugin
 
